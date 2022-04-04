@@ -1,1 +1,1 @@
-# https://slazhe.github.io/rsschool-cv/cv
+# https://slazhe.github.io/rsschool-cv/
